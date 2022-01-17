@@ -3,5 +3,10 @@ TEST TO-DO LIST
 1. Get the git basic concept
 2. Try it out to really understand it
 3. Repeat until you are 100% comfortable
-
 4. New task for test
+5. New Branch called "test" added in Git
+  NOTE: To merge the new state (created with line 5) to the main (fka. master) branch, 
+  you'd have to first STAGE and COMMIT this branch. 
+
+  After committing your newly created "test" branch, switch back to the "main" branch by running: git checkout main.
+   
