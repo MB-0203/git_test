@@ -1,0 +1,5 @@
+TEST TO-DO LIST
+
+1. Get the git basic concept
+2. Try it out to really understand it
+3. Repeat until you are 100% comfortable
